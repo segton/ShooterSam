@@ -1,4 +1,4 @@
-# ShooterSam — Unreal Engine 5
+# ShooterSam — Unreal Engine 5.6
 
 Course Project — GameDev.tv Unreal C++ Course
 
